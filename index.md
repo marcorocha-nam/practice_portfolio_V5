@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Summary
+# Summary
 
 Commercial leader in global shipping and logistics, experienced in business performance, network strategy, negotiations, and international team leadership.
 
